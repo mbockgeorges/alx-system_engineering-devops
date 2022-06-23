@@ -6,3 +6,4 @@ Display all files including hidden files in a long format
 Display current directory contents Long files with user and group IDs diplayed numerically and hidden files(starting with)
 Create a directory in /tmp/
 Move the file betty from /tmp/ to /tmp/my_first_directory
+Delete the file betty
