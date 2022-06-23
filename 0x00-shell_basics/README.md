@@ -10,3 +10,4 @@ Delete the file betty
 Delete first_directory
 Write a script that changes the working directory to the previous one
 Write a script that lists all files (even ones with names with beginning with a period charater, which normally are hidden)
+Write a script that prints the type of file named iamafile. The file iamafile will be in the /tmp directory when we will run your script 
