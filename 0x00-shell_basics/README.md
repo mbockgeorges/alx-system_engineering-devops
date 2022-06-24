@@ -17,3 +17,4 @@ Create a script that moves all files beginning with uppercase letter to the dire
 Create a script that deletes all files in the current working directory that end with character ~
 Create a script that creates the directories welcome/,welcome/to and welcome/to/school in the current directory
 Write  a script that lists all the files and directories of the current directory, separed by commas
+Create a magic file school.mgc that can used with command file to detect School data files always containts the string SCHOOL at offset 0
