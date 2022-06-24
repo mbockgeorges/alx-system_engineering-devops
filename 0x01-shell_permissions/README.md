@@ -9,4 +9,5 @@ Write a script that adds execute permission to the all to the file hello
 Write a scripte that sets the all permissions to the other use only
 Write a script that sets the mode of the file hello
 Write a script that sets the mode of the file hello the same as olled's mode
-Create a script that adds execute permission to all subdirectories of the current directory for the owner the group owner and other us
+Create a script that adds execute permission to all subdirectories of the current directory for the owner the group owner and other user
+Create a script that creates a directory called my_dir with permission 751 in working directory
