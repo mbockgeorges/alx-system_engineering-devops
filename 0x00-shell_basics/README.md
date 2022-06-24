@@ -14,4 +14,5 @@ Write a script that prints the type of file named iamafile. The file iamafile wi
 Create a symbolic link to /bin/ls, named __ls__ in the current directory
 Copy html
 Create a script that moves all files beginning with uppercase letter to the directory /tmp/u
-Create a script that deletes all files in the current working directory that end with character ~ 
+Create a script that deletes all files in the current working directory that end with character ~
+Create a script that creates the directories welcome/,welcome/to and welcome/to/school in the current directory
