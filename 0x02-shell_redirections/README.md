@@ -16,3 +16,4 @@ Display lines containing the pattern "root" from the file
 Display the  number of lines that contain the pattern "bin"  
 Display lines containg the pattern "root" and 3 lines
 Dispaly all the lines in the /etc/passwd
+Display all lines of the file /etc/ssh/sshd_config starting with a
