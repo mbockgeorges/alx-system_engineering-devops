@@ -8,4 +8,5 @@ Write a script that diplays the third line of the file iacta
 Write a shell script that creates a file
 Write a script that writes into the file ls_cwd_content
 Write a script that duplicates the last line of the file iacta
-Write a script that deletes all the regular files(not directories)Create a script that displays the 10 newest files  
+Write a script that deletes all the regular files(not directories)Create a script that displays the 10 newest files
+Create a script that takes a list of words as input and print  
