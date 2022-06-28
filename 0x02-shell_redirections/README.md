@@ -19,3 +19,4 @@ Dispaly all the lines in the /etc/passwd
 Display all lines of the file /etc/ssh/sshd_config starting with aReplace all characters A and c from input z and e respectively
 Create a script that removes all letters c and C from input
 Write a script that reverse its input
+Write a script that displays all users and thier home directories
