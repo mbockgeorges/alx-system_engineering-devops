@@ -15,3 +15,4 @@ Create a script that takes a list of words as input and print
 Display lines containing the pattern "root" from the file
 Display the  number of lines that contain the pattern "bin"  
 Display lines containg the pattern "root" and 3 lines
+Dispaly all the lines in the /etc/passwd
