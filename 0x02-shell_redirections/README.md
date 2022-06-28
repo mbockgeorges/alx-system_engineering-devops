@@ -6,4 +6,5 @@ Display the last 10 lines of /etc/passwd
 Display the first 10 lines of /etc/passwd
 Write a script that diplays the third line of the file iacta
 Write a shell script that creates a file
-Write a script that writes into the file ls_cwd_content 
+Write a script that writes into the file ls_cwd_content
+Write a script that duplicates the last line of the file iacta 
