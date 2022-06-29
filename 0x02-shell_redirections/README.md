@@ -21,4 +21,4 @@ Create a script that removes all letters c and C from input
 Write a script that reverse its input
 Write a script that displays all users and thier home dirs
 Write a command that finds all empty files and directories
-Write a command that finds all empty files and directories and all sub-directories
+Write a script that lists all the files with a .gif
