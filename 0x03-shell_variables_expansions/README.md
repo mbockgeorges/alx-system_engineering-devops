@@ -3,4 +3,4 @@ Create a script that prints hello user, where user is the current userAdd /actio
 Create a script that lists environment variables
 Create a script that lists all local variables and environment variablCreate a script that creates a new local variable
 Create a script creates a new global variable
-Write a script that prints the result of the additionnal 128 with TRU
+Write a script that prints the result of the additionnal 128 with TRWrite a script that prints the result of POWER divided DIVIDE
