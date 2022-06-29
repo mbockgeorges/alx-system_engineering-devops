@@ -4,3 +4,4 @@ Create a script that lists environment variables
 Create a script that lists all local variables and environment variablCreate a script that creates a new local variable
 Create a script creates a new global variable
 Write a script that prints the result of the additionnal 128 with TRWrite a script that prints the result of POWER divided DIVIDE
+Write a script that displays the result of BREATH to the power LOVE
